@@ -31,3 +31,5 @@ https://bootstrapcreative.com/shop/bootstrap-quick-start/
 - A text editor like Atom or Visual Studio Code, internet connection, and Google Chrome installed.
 
 Learn more: https://bootstrapcreative.com/shop/bootstrap-quick-start/
+
+Written by Jacob Lett - [![Manufacturing & Industrial SEO Marketing](https://bootstrapcreative.com/)
