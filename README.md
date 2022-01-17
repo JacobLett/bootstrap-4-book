@@ -32,4 +32,4 @@ https://bootstrapcreative.com/shop/bootstrap-quick-start/
 
 Learn more: https://bootstrapcreative.com/shop/bootstrap-quick-start/
 
-Written by Jacob Lett - [![Manufacturing & Industrial SEO Marketing](https://bootstrapcreative.com/)
+Written by Jacob Lett - [Manufacturing & Industrial SEO Marketing](https://bootstrapcreative.com/)
